@@ -1,5 +1,5 @@
-*.java linguist-language=false 
-*.html linguist-language=false
-*.ts linguist-language=false
-*.js linguist-language=false
-*.css linguist-language=false
+*.java linguist-detectable=false 
+*.html linguist-detectable=false
+*.ts linguist-detectable=false
+*.js linguist-detectable=false
+*.css linguist-detectable=false

@@ -1,2 +1,5 @@
-*.html linguist-language=html
-*.css linguist-language=html
+*.java linguist-detectable=false 
+*.html linguist-detectable=false
+*.ts linguist-detectable=false
+*.js linguist-detectable=false
+*.css linguist-detectable=false

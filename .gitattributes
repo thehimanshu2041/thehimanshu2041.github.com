@@ -5,4 +5,4 @@
 *.xml text eol=lf
 *.py text eol=lf
 *.R text eol=lf
-*.js text eol=lf
+*.html text eol=lf

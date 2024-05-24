@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f667d04a184586da5f70bc9a7d8e18e",
+    "revision": "ca9328d1be0b465301fd39897a9dd980",
     "url": "./index.html"
   },
   {
-    "revision": "d82806d1df298b1fd756",
-    "url": "./static/css/main.9a713873.chunk.css"
+    "revision": "b3c08b5f835025fd23a9",
+    "url": "./static/css/main.5a3b60d9.chunk.css"
   },
   {
-    "revision": "7939187febe919197d72",
-    "url": "./static/js/2.3ac99741.chunk.js"
+    "revision": "31e554bf5087d91f1da4",
+    "url": "./static/js/2.3285e3c7.chunk.js"
   },
   {
-    "revision": "d82806d1df298b1fd756",
-    "url": "./static/js/main.e569f725.chunk.js"
+    "revision": "b3c08b5f835025fd23a9",
+    "url": "./static/js/main.b9054a71.chunk.js"
   },
   {
-    "revision": "bfba2a34f9928e5e0d9c",
-    "url": "./static/js/runtime-main.fb7e7b0c.js"
+    "revision": "364396f144fa0b266c9c",
+    "url": "./static/js/runtime-main.fa9e825f.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "./static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "9a6231709848f51cc77774f81fa4c350",
+    "url": "./static/media/bravura.9a623170.jpg"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
@@ -177,6 +181,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
+    "url": "./static/media/github.6eeb2e81.png"
+  },
+  {
+    "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "./static/media/github_logo.6eeb2e81.png"
   },
   {
@@ -208,6 +216,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/jsFramework.5b4a6449.svg"
   },
   {
+    "revision": "98d3514b49fe6776aa892d5496ebe6fc",
+    "url": "./static/media/kmg.98d3514b.jpg"
+  },
+  {
+    "revision": "8e76c5ee3a8d0ef36ac3ce6943f24e56",
+    "url": "./static/media/kune.8e76c5ee.jpg"
+  },
+  {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
     "url": "./static/media/legato_logo.c597fbde.png"
   },
@@ -222,6 +238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "./static/media/nptel_logo.95a12a2b.png"
+  },
+  {
+    "revision": "4e5dc8d92d3daf4c6e602eab77f8afc6",
+    "url": "./static/media/nucleus.4e5dc8d9.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
@@ -244,6 +264,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/stanford_logo.2c497738.png"
   },
   {
+    "revision": "5ec74a50014694ffe59111dc20ffc58e",
+    "url": "./static/media/svu.5ec74a50.jpg"
+  },
+  {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
     "url": "./static/media/talksCardBack.6ac91b16.svg"
   },
@@ -258,5 +282,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "./static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "9b8dd2f04575278b78bddd412af237e4",
+    "url": "./static/media/uptu.9b8dd2f0.png"
   }
 ]);
